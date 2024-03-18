@@ -2,7 +2,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=flat)  ![Scrum](https://img.shields.io/badge/-Scrum-orange?logo=scrum&logoColor=white&style=flat)  ![Rocketbot](https://img.shields.io/badge/-Rocketbot-blue?logo=rocket&logoColor=white&style=flat)  ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-blue?logo=mysql&logoColor=white&style=flat)  ![VMware](https://img.shields.io/badge/-VMware-lightgray?logo=vmware&logoColor=white&style=flat)  
 
-![Windows](https://img.shields.io/badge/Windows-Yes-blue)](https://www.microsoft.com/windows/)  ![Linux](https://img.shields.io/badge/Linux-Yes-green)](https://www.linux.org/)
+![Windows](https://img.shields.io/badge/Windows-Yes-blue)]  ![Linux](https://img.shields.io/badge/Linux-Yes-green)]
 
 
 
