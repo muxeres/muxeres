@@ -1,7 +1,3 @@
-<i class="fa-brands fa-github fa-shake fa-2xl" style="color: #881ba7;"></i>
-
-
-
 ## Sobre mí / About me / Sobre mim
 
 ¡Hola! Soy una desarrolladora full stack con experiencia en Python, Flask, Django, HTML/CSS, JavaScript y MySQL. Me especializo en el desarrollo de aplicaciones web y automatizaciones con Python, y tengo experiencia en metodologías ágiles como Scrum.
@@ -30,18 +26,19 @@ Adoro viajar e morar em diferentes partes do mundo, e gosto de fotografia, escri
 
 ### Programming languages / Lenguajes de programación / Linguagens de programação
 
-- Python <i class="devicon-python-plain colored"></i>
-- HTML/CSS <i class="devicon-html5-plain colored"></i> <i class="devicon-css3-plain colored"></i>
-- JavaScript <i class="devicon-javascript-plain colored"></i>
-- MySQL <i class="devicon-mysql-plain colored"></i>
-- Flask <i class="devicon-flask-original colored"></i>
-- Django <i class="devicon-django-plain colored"></i>
+- Python ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
+- HTML/CSS ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange?logo=html5&logoColor=white&style=flat) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-blue?logo=css3&logoColor=white&style=flat)
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=flat)
+- Flask ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat)
+- Django ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=flat)
 
 ### Tools / Herramientas / Ferramentas
 
-- Git <i class="devicon-git-plain colored"></i>
-- Scrum <i class="devicon-scrum-plain colored"></i>
-- Rocketbot <i class="devicon-rocket-plain colored"></i>
+- Git ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=flat)
+- Scrum ![Scrum](https://img.shields.io/badge/-Scrum-orange?logo=scrum&logoColor=white&style=flat)
+- Rocketbot ![Rocketbot](https://img.shields.io/badge/-Rocketbot-blue?logo=rocket&logoColor=white&style=flat)
+
 
 
 
