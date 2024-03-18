@@ -32,13 +32,13 @@ Adoro viajar e morar em diferentes partes do mundo, e gosto de fotografia, escri
 - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=flat)
 - Flask ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat)
 - Django ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=flat)
+- Java ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat)
+- PHP ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white&style=flat)
 
 ### Tools / Herramientas / Ferramentas
 
 - Git ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=flat)
 - Scrum ![Scrum](https://img.shields.io/badge/-Scrum-orange?logo=scrum&logoColor=white&style=flat)
 - Rocketbot ![Rocketbot](https://img.shields.io/badge/-Rocketbot-blue?logo=rocket&logoColor=white&style=flat)
-
-
-
-
+- MySQL Workbench ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-blue?logo=mysql&logoColor=white&style=flat)
+- VMware ![VMware](https://img.shields.io/badge/-VMware-lightgray?logo=vmware&logoColor=white&style=flat)
