@@ -1,3 +1,11 @@
+ ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)  ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange?logo=html5&logoColor=white&style=flat) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-blue?logo=css3&logoColor=white&style=flat)  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)  ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=flat)  ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat)  ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=flat)  ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat)  ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white&style=flat)
+
+![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=flat)  ![Scrum](https://img.shields.io/badge/-Scrum-orange?logo=scrum&logoColor=white&style=flat)  ![Rocketbot](https://img.shields.io/badge/-Rocketbot-blue?logo=rocket&logoColor=white&style=flat)  ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-blue?logo=mysql&logoColor=white&style=flat)  ![VMware](https://img.shields.io/badge/-VMware-lightgray?logo=vmware&logoColor=white&style=flat)  
+
+![Windows](https://img.shields.io/badge/Windows-Yes-blue)](https://www.microsoft.com/windows/)  ![Linux](https://img.shields.io/badge/Linux-Yes-green)](https://www.linux.org/)
+
+
+
 ## Sobre mí / About me / Sobre mim
 
 ¡Hola! Soy una desarrolladora full stack con experiencia en Python, Flask, Django, HTML/CSS, JavaScript y MySQL. Me especializo en el desarrollo de aplicaciones web y automatizaciones con Python, y tengo experiencia en metodologías ágiles como Scrum.
@@ -21,15 +29,3 @@ Olá! Sou uma desenvolvedora full stack com experiência em Python, Flask, Djang
 Tenho me dedicado recentemente ao desenvolvimento de automações com Python e possuo certificações em Scrum e Rocketbot, além de uma certificação Full Stack Python do Coding Dojo.
 
 Adoro viajar e morar em diferentes partes do mundo, e gosto de fotografia, escrita e trabalho. Se precisar de ajuda com seus projetos de desenvolvimento web ou automação, não hesite em entrar em contato!
-
-## Skills / Habilidades / Habilidades
-
-### Programming languages / Lenguajes de programación / Linguagens de programação
-
- ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)  ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange?logo=html5&logoColor=white&style=flat) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-blue?logo=css3&logoColor=white&style=flat)  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)  ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=flat)  ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat)  ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=flat)  ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat)  ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white&style=flat)
-
-
-### Tools / Herramientas / Ferramentas
-
-![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=flat)  ![Scrum](https://img.shields.io/badge/-Scrum-orange?logo=scrum&logoColor=white&style=flat)  ![Rocketbot](https://img.shields.io/badge/-Rocketbot-blue?logo=rocket&logoColor=white&style=flat)  ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-blue?logo=mysql&logoColor=white&style=flat)  ![VMware](https://img.shields.io/badge/-VMware-lightgray?logo=vmware&logoColor=white&style=flat)  
-
