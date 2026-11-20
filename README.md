@@ -5,9 +5,9 @@
 ![Windows](https://img.shields.io/badge/Windows-Yes-blue)  ![Linux](https://img.shields.io/badge/Linux-Yes-green)
 
 
-### Mi portafolio · PONTIFIC
+### Mi portafolio ·
 
-[![PONTIFIC — Live Portfolio](https://img.shields.io/badge/PONTIFIC-LIVE%20PORTFOLIO-F77F00?style=for-the-badge&logo=rocket&logoColor=white&labelColor=D62828)](https://pontific-startup-site.onrender.com/index.html)
+[![PONTIFIC — Live Portfolio](https://img.shields.io/badge/PONTIFIC-LIVE%20PORTFOLIO-F77F00?style=for-the-badge&Color=white&labelColor=D62828)](https://pontific-startup-site.onrender.com/index.html)
 
 **AI Engineering · Python Backend · Intelligent Automation**
 
